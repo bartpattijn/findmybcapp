@@ -5,6 +5,6 @@
   "languages": [],
   "extends": [],
   "worksWellWith": [],
-  "showLogo": false,
-  "logoUrl": null
+  "showLogo": true,
+  "logoUrl": "https://cdn.sanity.io/images/b8b60w87/production/b6a3e232533280bc05164a1808b3d4d989c66522-192x192.png"
 }
