@@ -5,6 +5,6 @@
   "languages": [],
   "extends": [],
   "worksWellWith": [],
-  "showLogo": false,
-  "logoUrl": null
+  "showLogo": true,
+  "logoUrl": "https://media.codeunit.io/marketplace/apps/f5df4b13-f905-4310-a517-f55c7adb5f41/logo.png"
 }
