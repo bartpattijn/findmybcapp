@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_bartender|PAPPID.44f1b473-5de7-4c9d-b6c4-7932f800422b",
+  "guid": "44f1b473-5de7-4c9d-b6c4-7932f800422b",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_bartender",
+  "source": {
+    "name": "BoCount Dynamics BarTender",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_bartender%7CPAPPID.44f1b473-5de7-4c9d-b6c4-7932f800422b",
+    "lastModified": "",
+    "appVersion": "29.0.20261008.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/bartender/",
+    "sourceHash": "sha256:d9cc79d5ea505cd052df1be261f2d846e9426daee26a5cba19e1ab8fc047bfaf",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:d9cc79d5ea505cd052df1be261f2d846e9426daee26a5cba19e1ab8fc047bfaf",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

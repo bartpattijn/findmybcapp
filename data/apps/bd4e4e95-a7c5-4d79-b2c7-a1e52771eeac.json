@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_base|PAPPID.bd4e4e95-a7c5-4d79-b2c7-a1e52771eeac",
+  "guid": "bd4e4e95-a7c5-4d79-b2c7-a1e52771eeac",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_base",
+  "source": {
+    "name": "BoCount Dynamics Base",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_base%7CPAPPID.bd4e4e95-a7c5-4d79-b2c7-a1e52771eeac",
+    "lastModified": "",
+    "appVersion": "29.0.20261001.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/base/",
+    "sourceHash": "sha256:89839b4bd0880a3789a025bd8bf0af8cd916befabc176aa37e24a7282cb61863",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:89839b4bd0880a3789a025bd8bf0af8cd916befabc176aa37e24a7282cb61863",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

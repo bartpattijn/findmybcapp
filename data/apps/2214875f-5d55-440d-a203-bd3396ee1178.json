@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_single_logistics_multi_finance|PAPPID.2214875f-5d55-440d-a203-bd3396ee1178",
+  "guid": "2214875f-5d55-440d-a203-bd3396ee1178",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_single_logistics_multi_finance",
+  "source": {
+    "name": "BoCount Dynamics Single Logistics Multi Finance",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_single_logistics_multi_finance%7CPAPPID.2214875f-5d55-440d-a203-bd3396ee1178",
+    "lastModified": "",
+    "appVersion": "29.0.20261009.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/slmf/",
+    "sourceHash": "sha256:6cdeea9056fbfe59ccca1fa5b95d5da1b892dd9313d3ec7aa8bc5d3a80733338",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:6cdeea9056fbfe59ccca1fa5b95d5da1b892dd9313d3ec7aa8bc5d3a80733338",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

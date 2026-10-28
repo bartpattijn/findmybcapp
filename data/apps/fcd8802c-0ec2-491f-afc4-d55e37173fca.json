@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_silverfin|PAPPID.fcd8802c-0ec2-491f-afc4-d55e37173fca",
+  "guid": "fcd8802c-0ec2-491f-afc4-d55e37173fca",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_silverfin",
+  "source": {
+    "name": "BoCount Dynamics Silverfin",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_silverfin%7CPAPPID.fcd8802c-0ec2-491f-afc4-d55e37173fca",
+    "lastModified": "",
+    "appVersion": "29.0.0.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/silverfin/",
+    "sourceHash": "sha256:09b150d7f83cfe49a4a22b45f21b362d71f542cfc81e45b65e897313599e095c",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:09b150d7f83cfe49a4a22b45f21b362d71f542cfc81e45b65e897313599e095c",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

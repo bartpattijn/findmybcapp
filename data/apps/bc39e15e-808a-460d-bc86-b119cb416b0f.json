@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_advanced_payments|PAPPID.bc39e15e-808a-460d-bc86-b119cb416b0f",
+  "guid": "bc39e15e-808a-460d-bc86-b119cb416b0f",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_advanced_payments",
+  "source": {
+    "name": "BoCount Dynamics Payments",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_advanced_payments%7CPAPPID.bc39e15e-808a-460d-bc86-b119cb416b0f",
+    "lastModified": "",
+    "appVersion": "29.0.20261015.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/payments/",
+    "sourceHash": "sha256:24ace2f57b419f53f5614c13f1fe1ca8ef9d79a7c3fc4005b940f69a57233230",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:24ace2f57b419f53f5614c13f1fe1ca8ef9d79a7c3fc4005b940f69a57233230",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

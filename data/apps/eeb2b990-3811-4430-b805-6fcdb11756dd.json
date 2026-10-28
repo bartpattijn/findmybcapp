@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_nitro_sign|PAPPID.eeb2b990-3811-4430-b805-6fcdb11756dd",
+  "guid": "eeb2b990-3811-4430-b805-6fcdb11756dd",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_nitro_sign",
+  "source": {
+    "name": "BoCount Dynamics Nitro Sign",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_nitro_sign%7CPAPPID.eeb2b990-3811-4430-b805-6fcdb11756dd",
+    "lastModified": "",
+    "appVersion": "29.0.20260918.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/nitrosign/",
+    "sourceHash": "sha256:8f5603a5118a415090f46d68699c67566be6ceab8c7087ea97b29006e7c1992e",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:8f5603a5118a415090f46d68699c67566be6ceab8c7087ea97b29006e7c1992e",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

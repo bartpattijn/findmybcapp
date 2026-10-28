@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_sustainability|PAPPID.8f12e0f2-9d18-4c47-bb7e-6a9caf3ae6b1",
+  "guid": "8f12e0f2-9d18-4c47-bb7e-6a9caf3ae6b1",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_sustainability",
+  "source": {
+    "name": "BoCount Dynamics Sustainability",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_sustainability%7CPAPPID.8f12e0f2-9d18-4c47-bb7e-6a9caf3ae6b1",
+    "lastModified": "",
+    "appVersion": "29.0.0.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/sustainability/",
+    "sourceHash": "sha256:3afdede7fa259e90995c129f6e036512f26597df2c9ce81f9b3dbe119f281c9f",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:3afdede7fa259e90995c129f6e036512f26597df2c9ce81f9b3dbe119f281c9f",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_isabel_connect|PAPPID.1841adbb-8bf1-440c-86d0-28d9789e5ab9",
+  "guid": "1841adbb-8bf1-440c-86d0-28d9789e5ab9",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_isabel_connect",
+  "source": {
+    "name": "BoCount Dynamics Isabel Connect",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_isabel_connect%7CPAPPID.1841adbb-8bf1-440c-86d0-28d9789e5ab9",
+    "lastModified": "",
+    "appVersion": "29.0.0.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/isabelconnect/",
+    "sourceHash": "sha256:b713c7679550c10b3c12425c93815e0afda4ee685920970b6127d5e6f0628ae3",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:b713c7679550c10b3c12425c93815e0afda4ee685920970b6127d5e6f0628ae3",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

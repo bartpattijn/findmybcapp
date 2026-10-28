@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_revenue_sheets|PAPPID.3bc9dc74-f116-49f0-834c-aa12af9896d9",
+  "guid": "3bc9dc74-f116-49f0-834c-aa12af9896d9",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_revenue_sheets",
+  "source": {
+    "name": "BoCount Dynamics Revenue Sheets",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_revenue_sheets%7CPAPPID.3bc9dc74-f116-49f0-834c-aa12af9896d9",
+    "lastModified": "",
+    "appVersion": "29.0.20261001.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/revenue-sheets/",
+    "sourceHash": "sha256:ba419e1f928e2225bb41212e301640c01b0c7d21e0e9117c013dcb73834798c8",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:ba419e1f928e2225bb41212e301640c01b0c7d21e0e9117c013dcb73834798c8",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

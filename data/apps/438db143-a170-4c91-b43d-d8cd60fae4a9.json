@@ -1,0 +1,51 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_api|PAPPID.438db143-a170-4c91-b43d-d8cd60fae4a9",
+  "guid": "438db143-a170-4c91-b43d-d8cd60fae4a9",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_api",
+  "source": {
+    "name": "BoCount Dynamics API",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_api%7CPAPPID.438db143-a170-4c91-b43d-d8cd60fae4a9",
+    "lastModified": "",
+    "appVersion": "29.0.0.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/api/",
+    "sourceHash": "sha256:7878c3eaeea0fe5971267c3f1a513b6d2569516b52aab016e3780fbff715c60e",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:7878c3eaeea0fe5971267c3f1a513b6d2569516b52aab016e3780fbff715c60e",
+    "mappedOn": null,
+    "summary": "Provides web services for integrations with external services.",
+    "shape": "connector",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "countries": [
+      "BE"
+    ],
+    "languages": [
+      "en",
+      "fr",
+      "nl"
+    ],
+    "industries": [],
+    "connectsTo": [],
+    "requires": [],
+    "deployment": "not_stated",
+    "pricing": "contact",
+    "hide": false,
+    "hideReason": "",
+    "noFit": ""
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

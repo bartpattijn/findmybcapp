@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_unleash_commerce|PAPPID.06dd52ff-f030-436a-a2d7-2d79a383b63b",
+  "guid": "06dd52ff-f030-436a-a2d7-2d79a383b63b",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_unleash_commerce",
+  "source": {
+    "name": "BoCount Dynamics Unleash Commerce",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_unleash_commerce%7CPAPPID.06dd52ff-f030-436a-a2d7-2d79a383b63b",
+    "lastModified": "",
+    "appVersion": "29.0.0.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/unleash/",
+    "sourceHash": "sha256:acc0caab1966ef272d8c3186342f3399e3945a09c3b6e9ef1f4f4742a3dddedc",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:acc0caab1966ef272d8c3186342f3399e3945a09c3b6e9ef1f4f4742a3dddedc",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

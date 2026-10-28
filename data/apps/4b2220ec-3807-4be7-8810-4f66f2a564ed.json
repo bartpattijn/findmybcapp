@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_e-banking_core|PAPPID.4b2220ec-3807-4be7-8810-4f66f2a564ed",
+  "guid": "4b2220ec-3807-4be7-8810-4f66f2a564ed",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_e-banking_core",
+  "source": {
+    "name": "BoCount Dynamics E-Banking Core",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_e-banking_core%7CPAPPID.4b2220ec-3807-4be7-8810-4f66f2a564ed",
+    "lastModified": "",
+    "appVersion": "28.0.20260911.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/e-banking-core/",
+    "sourceHash": "sha256:938a89813bc093b93861c1a9a507fb72cbfe262536c2c39eb767d98869e6934b",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:938a89813bc093b93861c1a9a507fb72cbfe262536c2c39eb767d98869e6934b",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

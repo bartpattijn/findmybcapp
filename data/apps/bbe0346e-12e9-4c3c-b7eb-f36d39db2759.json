@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_mailchimp|PAPPID.bbe0346e-12e9-4c3c-b7eb-f36d39db2759",
+  "guid": "bbe0346e-12e9-4c3c-b7eb-f36d39db2759",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_mailchimp",
+  "source": {
+    "name": "BoCount Dynamics MailChimp",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_mailchimp%7CPAPPID.bbe0346e-12e9-4c3c-b7eb-f36d39db2759",
+    "lastModified": "",
+    "appVersion": "29.0.20261020.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/mailchimp/",
+    "sourceHash": "sha256:4173870c7133377031c6a5d6cd59635da36f2818484736bcf7b0cf50b052ef3b",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:4173870c7133377031c6a5d6cd59635da36f2818484736bcf7b0cf50b052ef3b",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

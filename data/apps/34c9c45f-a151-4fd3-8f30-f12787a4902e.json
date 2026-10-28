@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_e-document_connector|PAPPID.34c9c45f-a151-4fd3-8f30-f12787a4902e",
+  "guid": "34c9c45f-a151-4fd3-8f30-f12787a4902e",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_e-document_connector",
+  "source": {
+    "name": "BoCount Dynamics E-Document Connector",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_e-document_connector%7CPAPPID.34c9c45f-a151-4fd3-8f30-f12787a4902e",
+    "lastModified": "",
+    "appVersion": "29.0.0.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/e-document-connector/",
+    "sourceHash": "sha256:afd3b3774bd3c02f6d5c511ae05eabf76b11db10339ef6bb263cba2f11f9151e",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:afd3b3774bd3c02f6d5c511ae05eabf76b11db10339ef6bb263cba2f11f9151e",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

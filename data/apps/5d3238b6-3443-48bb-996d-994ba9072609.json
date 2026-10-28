@@ -1,0 +1,36 @@
+{
+  "appId": "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_ponto|PAPPID.5d3238b6-3443-48bb-996d-994ba9072609",
+  "guid": "5d3238b6-3443-48bb-996d-994ba9072609",
+  "publisherId": "christiaensnv1624023591234",
+  "offerId": "bocount_dynamics_ponto",
+  "source": {
+    "name": "BoCount Dynamics Ponto",
+    "publisher": "Dynamate",
+    "productType": "DynamicsBC",
+    "url": "https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.christiaensnv1624023591234%7CAID.bocount_dynamics_ponto%7CPAPPID.5d3238b6-3443-48bb-996d-994ba9072609",
+    "lastModified": "",
+    "appVersion": "28.0.261012.0",
+    "pricingTypes": [
+      "ContactPublisher"
+    ],
+    "freeTrial": null,
+    "helpLink": "https://docs.bocount.net/ponto/",
+    "sourceHash": "sha256:cf7e2fec9dd12459fffb1553b4520d364d81f9801fc74b16632c9a56bb9cf9c1",
+    "mentionsBC": true
+  },
+  "mapping": {
+    "sourceHash": "sha256:cf7e2fec9dd12459fffb1553b4520d364d81f9801fc74b16632c9a56bb9cf9c1",
+    "mappedOn": null,
+    "summary": null,
+    "shape": "other",
+    "primary": [],
+    "secondary": [],
+    "claims": [],
+    "hide": false
+  },
+  "curated": {
+    "overrides": {},
+    "locked": false,
+    "note": "Catalog record seeded from the BoCount extension docs; refresh source metadata from AppSource."
+  }
+}

@@ -4343,16 +4343,132 @@
       "stem": "87b932ca-f1f4-4966-9508-c1bfa5b6eda7",
       "publisherFolder": "chift"
     },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_advanced_payments|PAPPID.bc39e15e-808a-460d-bc86-b119cb416b0f": {
+      "stem": "bc39e15e-808a-460d-bc86-b119cb416b0f",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_api|PAPPID.438db143-a170-4c91-b43d-d8cd60fae4a9": {
+      "stem": "438db143-a170-4c91-b43d-d8cd60fae4a9",
+      "publisherFolder": "dynamate"
+    },
     "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_approval|PAPPID.b035b213-58d0-4e1a-9ac6-dca6878ddf34": {
       "stem": "b035b213-58d0-4e1a-9ac6-dca6878ddf34",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_bartender|PAPPID.44f1b473-5de7-4c9d-b6c4-7932f800422b": {
+      "stem": "44f1b473-5de7-4c9d-b6c4-7932f800422b",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_base|PAPPID.bd4e4e95-a7c5-4d79-b2c7-a1e52771eeac": {
+      "stem": "bd4e4e95-a7c5-4d79-b2c7-a1e52771eeac",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_coda_file|PAPPID.e8a029d7-0368-4781-be31-b082193d01c9": {
+      "stem": "e8a029d7-0368-4781-be31-b082193d01c9",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_company_hub|PAPPID.ec5a4230-8b5a-4220-9105-11274bf72e1b": {
+      "stem": "ec5a4230-8b5a-4220-9105-11274bf72e1b",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_companyweb|PAPPID.c32e0741-dc86-4ab1-90b8-977c136123e4": {
+      "stem": "c32e0741-dc86-4ab1-90b8-977c136123e4",
       "publisherFolder": "dynamate"
     },
     "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_complaint|PAPPID.ad0e86bc-8ca5-463e-b8df-e3b8729b007b": {
       "stem": "ad0e86bc-8ca5-463e-b8df-e3b8729b007b",
       "publisherFolder": "dynamate"
     },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_data_import|PAPPID.6af027ec-3391-44c1-abbc-ade2ed0c85fe": {
+      "stem": "6af027ec-3391-44c1-abbc-ade2ed0c85fe",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_document_capture|PAPPID.c41d1a87-c53b-4e54-9839-0ba2fa1bcad3": {
+      "stem": "c41d1a87-c53b-4e54-9839-0ba2fa1bcad3",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_e-banking_be|PAPPID.c582512d-ecaf-4d08-9669-906aaa881369": {
+      "stem": "c582512d-ecaf-4d08-9669-906aaa881369",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_e-banking_core|PAPPID.4b2220ec-3807-4be7-8810-4f66f2a564ed": {
+      "stem": "4b2220ec-3807-4be7-8810-4f66f2a564ed",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_e-document_connector|PAPPID.34c9c45f-a151-4fd3-8f30-f12787a4902e": {
+      "stem": "34c9c45f-a151-4fd3-8f30-f12787a4902e",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_edi|PAPPID.38297901-5246-4cc5-8cdc-528d5e978d75": {
+      "stem": "38297901-5246-4cc5-8cdc-528d5e978d75",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_electronic_banking|PAPPID.12333f0d-a569-4568-a286-f66e84b12d5d": {
+      "stem": "12333f0d-a569-4568-a286-f66e84b12d5d",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_foundation|PAPPID.29a9194e-bdbc-4574-84bc-e3c4d975901c": {
+      "stem": "29a9194e-bdbc-4574-84bc-e3c4d975901c",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_isabel_connect|PAPPID.1841adbb-8bf1-440c-86d0-28d9789e5ab9": {
+      "stem": "1841adbb-8bf1-440c-86d0-28d9789e5ab9",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_mailchimp|PAPPID.bbe0346e-12e9-4c3c-b7eb-f36d39db2759": {
+      "stem": "bbe0346e-12e9-4c3c-b7eb-f36d39db2759",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_nitro_sign|PAPPID.eeb2b990-3811-4430-b805-6fcdb11756dd": {
+      "stem": "eeb2b990-3811-4430-b805-6fcdb11756dd",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_ponto|PAPPID.5d3238b6-3443-48bb-996d-994ba9072609": {
+      "stem": "5d3238b6-3443-48bb-996d-994ba9072609",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_pos|PAPPID.b19a2836-c4f4-4a73-a94b-38ce03ef17ed": {
+      "stem": "b19a2836-c4f4-4a73-a94b-38ce03ef17ed",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_pricing|PAPPID.cd076a94-0af4-468c-8b3f-d6794998b955": {
+      "stem": "cd076a94-0af4-468c-8b3f-d6794998b955",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_revenue_sheets|PAPPID.3bc9dc74-f116-49f0-834c-aa12af9896d9": {
+      "stem": "3bc9dc74-f116-49f0-834c-aa12af9896d9",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_silverfin|PAPPID.fcd8802c-0ec2-491f-afc4-d55e37173fca": {
+      "stem": "fcd8802c-0ec2-491f-afc4-d55e37173fca",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_single_logistics_multi_finance|PAPPID.2214875f-5d55-440d-a203-bd3396ee1178": {
+      "stem": "2214875f-5d55-440d-a203-bd3396ee1178",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_support|PAPPID.3af91a95-0887-4d32-b4cf-f502bede8f3c": {
+      "stem": "3af91a95-0887-4d32-b4cf-f502bede8f3c",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_sustainability|PAPPID.8f12e0f2-9d18-4c47-bb7e-6a9caf3ae6b1": {
+      "stem": "8f12e0f2-9d18-4c47-bb7e-6a9caf3ae6b1",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_synchronization|PAPPID.e4d6c306-0b7b-49f9-9d60-17702125ab8b": {
+      "stem": "e4d6c306-0b7b-49f9-9d60-17702125ab8b",
+      "publisherFolder": "dynamate"
+    },
     "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_system|PAPPID.cc879410-9977-4378-a066-15e2dd627e45": {
       "stem": "cc879410-9977-4378-a066-15e2dd627e45",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_unleash_commerce|PAPPID.06dd52ff-f030-436a-a2d7-2d79a383b63b": {
+      "stem": "06dd52ff-f030-436a-a2d7-2d79a383b63b",
+      "publisherFolder": "dynamate"
+    },
+    "PUBID.christiaensnv1624023591234|AID.bocount_dynamics_warehouse|PAPPID.4202775a-e46d-48db-b738-dc57bb2f78ae": {
+      "stem": "4202775a-e46d-48db-b738-dc57bb2f78ae",
       "publisherFolder": "dynamate"
     },
     "PUBID.ckl-software-gmbh|AID.kostenrechnung_cost_accounting_365|PAPPID.32a8e514-216f-487a-82ea-23709b370af9": {
